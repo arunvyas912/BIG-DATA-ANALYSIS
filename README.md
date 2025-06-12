@@ -2,10 +2,15 @@
 
 # 🏢 Internship Details
 Company: CODTECH IT SOLUTIONS PVT. LTD.
+
 Name: ARUN VYAS
+
 Intern ID: CT12WP97
+
 Domain: Data Analytics
+
 Internship Duration: 12 Weeks (March 25, 2025 – June 25, 2025)
+
 Mentor: NEELA SANTOSH KUMAR
 
 # 📝 Task Description
