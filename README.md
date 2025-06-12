@@ -1,18 +1,12 @@
 # Task 1: BIG-DATA-ANALYSIS
 
 # 🏢 Internship Details
-•	Company: CODTECH IT SOLUTIONS PVT. LTD.
-
-•	Name: ARUN VYAS
-
-•	Intern ID: CT12WP97
-
-•	Domain: Data Analytics
-
-•	Internship Duration: 12 Weeks (March 25, 2025 – June 25, 2025)
-
-•	Mentor: NEELA SANTOSH KUMAR
-
+# •	Company: CODTECH IT SOLUTIONS PVT. LTD.
+# •	Name: ARUN VYAS
+# •	Intern ID: CT12WP97
+# •	Domain: Data Analytics
+# •	Internship Duration: 12 Weeks (March 25, 2025 – June 25, 2025)
+# •	Mentor: NEELA SANTOSH KUMAR
 
 # 📝 Task Description
 Perform scalable data processing and analysis on a large dataset using Apache Spark (PySpark) to derive actionable insights from real-world data. This project demonstrates how distributed computing frameworks can efficiently handle, clean, and analyze datasets exceeding memory limits on traditional machines.
@@ -20,7 +14,7 @@ Perform scalable data processing and analysis on a large dataset using Apache Sp
 # 🛠️ Tools & Technologies Used
 •	Apache Spark (PySpark) : Distributed big data processing and analysis
 •	Python : Programming language
-•	Google Colab : Interactive coding or batch execution
+•	Google Colab : Interactive coding or batch executio
 •	IEA-EV-dataEV salesHistoricalCars : Open large-scale transportation dataset
 
 # 📂 Files Included
