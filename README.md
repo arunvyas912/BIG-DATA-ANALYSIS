@@ -13,8 +13,7 @@
 
 ### 📝 Task Description
 
-Perform scalable data processing and analysis on a large dataset using Apache Spark (PySpark) to derive actionable insights from real-world data.  
-This project demonstrates how distributed computing frameworks can efficiently handle, clean, and analyze datasets exceeding memory limits on traditional machines.
+Perform scalable data processing and analysis on a large dataset using Apache Spark (PySpark) to derive actionable insights from real-world data. This project demonstrates how distributed computing frameworks can efficiently handle, clean, and analyze datasets exceeding memory limits on traditional machines.
 
 ### 🛠️ Tools & Technologies Used
 
