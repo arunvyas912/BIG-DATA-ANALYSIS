@@ -12,19 +12,19 @@ Mentor: NEELA SANTOSH KUMAR
 Perform scalable data processing and analysis on a large dataset using Apache Spark (PySpark) to derive actionable insights from real-world data. This project demonstrates how distributed computing frameworks can efficiently handle, clean, and analyze datasets exceeding memory limits on traditional machines.
 
 # 🛠️ Tools & Technologies Used
-•	Apache Spark (PySpark)	: Distributed big data processing and analysis
-•	Python 	: Programming language
-•	Jupyter Notebook 	: Interactive coding or batch execution
-•	IEA-EV-dataEV salesHistoricalCars	: Open large-scale transportation dataset
+•	Apache Spark (PySpark) : Distributed big data processing and analysis
+•	Python : Programming language
+•	Google Colab : Interactive coding or batch execution
+•	IEA-EV-dataEV salesHistoricalCars : Open large-scale transportation dataset
 
 # 📂 Files Included
-Task_1 Big Data Analysis: Main PySpark script for data processing and insights
-IEA-EV-dataEV salesHistoricalCars: Sample CSV file for small-scale testing (if applicable)
+•	Task_1 Big Data Analysis: Main PySpark script for data processing and insights
+•	IEA-EV-dataEV salesHistoricalCars: Sample CSV file for small-scale testing
 
 # ▶️ How to Run
 1. Install PySpark via pip: pip install pyspark
 2. Add Dataset Path
-3. Run the PySpark Script:In Jupyter Notebook
+3. Run the PySpark Script:In Google Colab
 4. Output will Display
 
 # 📸 Output Screenshot
