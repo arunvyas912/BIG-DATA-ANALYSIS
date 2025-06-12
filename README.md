@@ -29,14 +29,10 @@ Perform scalable data processing and analysis on a large dataset using Apache Sp
 
 ## ▶️ How to Run
 
-1. **Install PySpark via pip**: pip install pyspark
-2. Add Dataset Path:Upload or link the dataset (e.g., IEA-EV-dataEV salesHistoricalCars) in your working directory or Colab environment.
-3. Run the PySpark Script in Google Colab
-4. Open the notebook or script in Google Colab and execute the cells.
-
-View the Output-
-The output (cleaned data, summaries, and insights) will be displayed in the notebook.
-
+1. **Install PySpark via pip:** pip install pyspark
+2. **Add Dataset Path:** Upload or link the dataset (e.g., IEA-EV-dataEV salesHistoricalCars) in your working directory or Colab environment.
+3. **Run the PySpark Script in Google Colab:** Open the notebook or script in Google Colab and execute the cells.
+4. **View the Output:** The output (cleaned data, summaries, and insights) will be displayed in the notebook.
 
 # 📸 Output Screenshot
 ![Screenshot 2025-06-12 190242](https://github.com/user-attachments/assets/71f396e5-d1e1-4d9e-9ed0-106326ec88b0)
