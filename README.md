@@ -21,25 +21,21 @@ This project demonstrates how distributed computing frameworks can efficiently h
 - **Apache Spark (PySpark)**: Distributed big data processing and analysis  
 - **Python**: Programming language  
 - **Google Colab**: Interactive coding or batch execution  
-- **IEA-EV-data / EV Sales / Historical Cars**: Open large-scale transportation datasets
+- **IEA-EV-dataEV salesHistoricalCars**: Open large-scale transportation datasets
 
 ## 📂 Files Included
 
 - **Task_1 Big Data Analysis**: Main PySpark script for data processing and insights  
-- **IEA-EV-data / EV Sales / Historical Cars**: Sample CSV file for small-scale testing  
+- **IEA-EV-dataEV salesHistoricalCars**: Sample CSV file for small-scale testing  
 
 ## ▶️ How to Run
 
-1. **Install PySpark via pip**  
-   ```bash
-   pip install pyspark
-2. Add Dataset Path
-Upload or link the dataset (e.g., IEA-EV-data.csv) in your working directory or Colab environment.
-
+1. **Install PySpark via pip**: pip install pyspark
+2. Add Dataset Path:Upload or link the dataset (e.g., IEA-EV-dataEV salesHistoricalCars) in your working directory or Colab environment.
 3. Run the PySpark Script in Google Colab
 4. Open the notebook or script in Google Colab and execute the cells.
 
-View the Output
+View the Output-
 The output (cleaned data, summaries, and insights) will be displayed in the notebook.
 
 
