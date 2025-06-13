@@ -20,17 +20,17 @@ Perform scalable data processing and analysis on a large dataset using Apache Sp
 - **Apache Spark (PySpark)**: Distributed big data processing and analysis  
 - **Python**: Programming language  
 - **Google Colab**: Interactive coding or batch execution  
-- **IEA-EV-dataEV salesHistoricalCars**: Open large-scale transportation datasets
+- **IEA-EV-dataEV salesHistoricalCars.csv**: Open large-scale transportation datasets
 
 ## 📂 Files Included
 
-- **Task_1 Big Data Analysis**: Main PySpark script for data processing and insights  
-- **IEA-EV-dataEV salesHistoricalCars**: Sample CSV file for small-scale testing  
+- **Task_1 Big Data Analysis.ipynb**: Main PySpark script for data processing and insights  
+- **IEA-EV-dataEV salesHistoricalCars.csv**: Sample CSV file for small-scale testing  
 
 ## ▶️ How to Run
 
 1. **Install PySpark via pip:** pip install pyspark
-2. **Add Dataset Path:** Upload or link the dataset (e.g., IEA-EV-dataEV salesHistoricalCars) in your working directory or Colab environment.
+2. **Add Dataset Path:** Upload or link the dataset (e.g., IEA-EV-dataEV salesHistoricalCars.csv) in your working directory or Colab environment.
 3. **Run the PySpark Script in Google Colab:** Open the notebook or script in Google Colab and execute the cells.
 4. **View the Output:** The output (cleaned data, summaries, and insights) will be displayed in the notebook.
 
